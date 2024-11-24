@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanim64
-- 👀 I’m interested in play game
+- 👀 I’m interested in playing game
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on opportunities
   
